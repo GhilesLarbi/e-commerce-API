@@ -1,0 +1,323 @@
+
+Name: Canapé sculpturel
+Dzscription: Inspiré du design des années 50, ce canapé courbe en forme de haricot amène une touche de douceur et d'originalité au salon. Une forme sculpturale habillée d'un tissu de velours vert sapin.
+Image: can0
+Price: 30000 DA
+Brand: GETAMA
+Count In stok: 10
+Category: canapé
+IsFeatured: False
+
+
+
+Name: CANAPE WEGNER GE34
+Description: Canapé en cuir noir de bureau ou de réception, aux lignes droites et modernes créé par Hans J. Wegner et disponible en deux places.
+Image: can1
+Price: 20000 DA
+Brand: GETAMA
+Count In stok: 14
+Category: canapé
+IsFeatured: False
+
+
+
+
+Name:CANAPE CONVERTIBLE
+Description:Canapé convertible à 2 places en tissu hallingdal noir, un matelas double à ressort en 190x200cm. Il se transforme en lit double. Coussins déhoussables
+Image:can2
+Price:25000 DA
+Brand: HESTBAEK
+Count In stock:12
+category: Canapé
+IsFeatured: False
+
+
+Name:CANAPE MAGS
+Description:canapé accorde la même importance à tous les éléments clés d'un canapé par sa suspension, la composition de la mousse et la durabilité du rembourrage.Les accoudoirs hauts et l'assise profonde font de HAY Mags un canapé idéal pour se détendre.
+Image:can3
+Price:26000 DA
+Brand:Hay
+Count In stock:10
+category:Canapé
+IsFeatured:False
+
+Name:CANAPE MK46
+Description:une édition spéciale à la pointe de la modernité. De 203cm hauteur,83cm largeur, profendeur 70cm, pour une assise de H45cm,le canapé è 3 places MK46 Mogens Koch trouve harmonieusement sa place dans les grandes pièces cosy comme le salon.
+Image:can4
+Price:31000 DA
+Brand:FDB Møbler 
+Count In stock:5
+category:Canapé
+IsFeatured:false
+
+Name:CANAPE CAROLINE
+Description:canapé à 3 places,L197 x P82  H82 cm - Hauteur d'assise: 42 cm, exclusivement fabriqué en rotin naturel dans une version intérieure ou l'extérieur, il apportera une touche scandinave et chaleureuse à votre ambiance.
+Image:can5
+Price:20000 DA
+Brand: SIKA DESIGN
+Count In stock:13
+category:Canapé
+IsFeatured:False
+
+Name:Canapé cosy 3 places bleu
+Description:Découvrez l'élégance et le confort suprême avec notre Canapé Cosy 3 Places, enveloppé dans une teinte raffinée de Velours Bleu 100% polyester. Conçu pour offrir une expérience d'assise inégalée, ce canapé fusionne avec brio design et fonctionnalité.
+Image:can6
+Price:34000 DA
+Brand:SIKA DESIGN
+Count In stock:5
+category:Canapé
+IsFeatured:False
+
+Name:Canapé d'angle gris velours
+Description:Le Canapé D'angle Moderne en velours gris matelassé est l'incarnation du confort et du style. Doté de deux traversins pour un soutien supplémentaire, ce canapé offre la flexibilité du montage de l'angle à droite ou à gauche, s'adaptant ainsi parfaitement à votre espace de vie.
+Image:can7
+Price: 46000 DA
+Brand:SIKA DESIGN
+Count In stock:7
+category:Canapé
+IsFeatured:False
+
+Name:Canapé 3 places en Lin naturel
+Description:Un canapé en Tissu texturé 75% polyester - 10% lin - 15% viscose, structure bois de peuplier Avec unn revêtement déhoussable et lavable, il allie style et praticité. Les 9 coussins variés offrent un confort sur mesure pour un espace accueillant. Un incontournable intemporel pour votre salon.
+Image:can8
+Price:50000 DA
+Brand:HESTBAEK
+Count In stock:13
+category:Canapé
+IsFeatured:False
+
+Name:Canapé d'angle
+Description: Découvrez le Canapé d'Angle en Tissu Vert Sauge, un choix élégant pour votre salon. Son dossier amovible offre un confort optimal, tandis que sa grande méridienne invite à la détente. Avec ses 2 traversins d'appoints, ce canapé d'angle gauche vous offre un espace de relaxation complet.
+Image:can9
+Price:21000DA
+Brand:HESTBAEK
+Count In stock:9
+category:Canapé
+IsFeatured:False
+
+--------------------------------TABLES-----------------
+Name:TABLE TARN
+Description: table de salle à manger,taille:L110xl104xH73 cm, un design moderne avec ses lignes épurées et sa silhouette minimaliste. Son élégance discrète se marie sans effort avec une variété de styles d'intérieur, du chic urbain à la simplicité scandinave.
+Image:tab0
+Price:19000 DA
+Brand: Ferm LIVING
+Count In stock:5
+category:Table
+IsFeatured:False
+
+Name:TABLE HOLMEN
+Description:Di:L210cm xP100cmxH73cm Chêne massif huilé.La table rejoint la collection des classiques réimaginés de Bernh. Pedersen & Søn. Avec son esthétique moderne, son design fonctionnel et sa fabrication artisanale, la table n° 201 est un témoignage de la beauté durable du design danois.
+Image:tab1
+Price:18000 DA
+Brand:BERNH. PEDERSEN & SON
+Count In stock:6
+category:Tables
+IsFeatured:False
+
+
+Name:TABLE IDA - RONDE
+Description:La série Ida est une série de meubles contemporains élégants qui puise ses racines dans l'héritage du design danois. La série est fabriquée en bois massif avec des détails discrets qui lui permettent d'être très polyvalente tout en conservant sa propre expression unique
+Image:tab2
+Price:21000 DA
+Brand: HASLEV
+Count In stock:10
+category:Tables
+IsFeatured:False
+
+Name:TABLE TEN OVALE
+Description:dimenssion 200x95xH72 cm. La table de salle à manger Ten se compose d’un plateau en bois massif, taillé en une seule pièce et poncé à la main, soutenue par deux planches très fines en bois massif également. La forme incurvée du plateau ainsi que ses bords arrondis, la finesse de la structure, l’absence de lignes droites sur le plateau 
+Image:tab3
+Price:17000 DA
+Brand:DK3
+Count In stock:8
+category:Tables
+IsFeatured:False
+
+
+Name: TABLE RONDE OX
+Description:Table ronde de salle à manger aux lignes courbes et élégantes avec plateau en marbre et piètement en acier inoxydable. Design la boutique danoise.
+Image: tab4
+Price:15000 DA
+Brand: OX DENMARQ
+Count In stock:9
+category:Tables
+IsFeatured:False
+ 
+
+Name:TABLE BK15 - Indoor-Outdoor Collection
+Description:Dimenssion: L153xP78xH74 cm. Un exemple classique de design danois discret. Suffisamment belle pour être utilisée à l'intérieur, mais assez résistante pour résister aux longs hivers scandinaves, elle s'intègre parfaitement dans les deux environnements, canalisant la chaleur et l'authenticité du teck.
+Image:tab5
+Price:26000 DA
+Brand:CARL HANSEN & SØN
+Count In stock:5
+category:Tables
+IsFeatured:False
+
+Name: TABLE BASSE NIVEAU
+Description:Niveau est une ligne élégante et polyvalente de tables basses en marbre et en bois, alliant les lignes minimalistes scandinaves à la beauté des matériaux naturels.En 3 pieces
+Image:tab6
+Price:12000 DA
+Brand: FREDERICIA
+Count In stock:13
+category:Tables
+IsFeatured:False
+
+Name: Table contemporaine
+Description: Ce meuble contemporain présente un beau design avec sa poutre centrale et ses pieds en métal noir. La Table est rectangulaire, longue de 2 mètres, et possède un plateau en bois massif chêne sauvage huilé. Le plateau en bois naturel contraste avec les pieds en métal noir pour un look original dans votre salle à manger.
+image: tab7
+Price:25000 DA
+Brand:ikea
+Count In stock:8
+category:Tables
+IsFeatured:False
+
+Name:Table à manger
+Description:Une Grande table à manger ovale de 220 cm, où la beauté de l'imitation bois de noyer rencontre l'audace du métal noir. Son plateau en MDF offre l'aspect chaleureux et naturel du noyer, tout en assurant une durabilité accrue. Les pieds en demi-lune en métal noir ajoutent une touche de modernité et de stabilité, créant un contraste harmonieux avec le caractère organique du bois.
+Image:tab8
+Price: 21000 DA
+Brand: ikea
+Count In stock:6
+category:Tables
+IsFeatured:False
+
+Name:TABLE CLASSIQUE 
+Description:Table classique en bois massif(Hêtre, chêne) avec rallonge pliable. Dimenssion L130xP85xH74cm - Longueur dépliée: L180cm ou L85xP85xH72cm
+Image:tab9
+Price:
+Brand:HALSEV
+Count In stock:11
+category:Tables
+IsFeatured:False
+
+-----------------------LIT--------
+
+
+Name:Lit
+Description:Tête et pied en médium 30 mm laqué, montants médium 35 mm laqué et panneaux mélaminés structuré 19 mm- Traverse en pin massif ou tilleul avec queue d'aronde. Dimenssion:160x200 cm
+Image:l0
+Price:19000 DA
+Brand:MINET
+Count In stock:11
+category:Chambre
+IsFeatured:False
+
+Name:Lit 
+Description:Tête de lit, avec 3 panneaux arrondi ou panneau capitonné, nombreuses finitions possibles, cadre de lit avec 2 angles au pied de lit arrondi ou cadre de lit carré, piétement métal chrome ou couleurs, option tiroirs coffres de rangement sous le lit. Dimonssion 90 x 190 cm
+Image:l1
+Price:20000 DA
+Brand:NOLTE
+Count In stock:5
+category:Chambre
+IsFeatured:False
+
+
+Name:Lit
+Description:Tête et cadre de lit en panneaux de particules ép. 19, 25 et 30 mm - Bandeau de tête de lit est en panneau structuré de moyenne densité 19 mm, équipé d'éclairage led intégré actionné par interrupteur - Pied en frêne massif, vernis sans solvants haut 22 cm
+Couchage : 140x190 cm
+Image:l2
+Price:22000 DA
+Brand:CELIO
+Count In stock:5
+category:Chambre
+IsFeatured:False
+
+Name:Lit Teck moderne
+Description:Pour une sublime chambre à coucher ou une suite parentale ce Lit Moderne pour adulte de grande qualité en bois Teck et déco Gris clair sera parfait. Un ensemble, lit 2 places, deux chevets et une tête de lit impressionnante associée au lit fera sensation, un lit adulte équipé d'un cadre de lit 160x200 ou 180x200 cm à effet surélevé qui se révélera très pratique lors du nettoyage.
+Image:l3
+Price:31000 DA
+Brand:CELIO
+Count In stock:10
+category:Chambre
+IsFeatured:False
+
+Name:Lit style moderne baroque
+Description:e Lit style moderne baroque en velours champagne incarne l'élégance contemporaine fusionnée avec l'opulence classique.avec son cadre de conçu et sa tête de lit rembourrée créent une esthétique somptueuse et accueillante. Le velours champagne luxueux apporte une touche de douceur tactile, tandis que les surpiqûres décoratives exquises et les boutons ajoutent des détails raffinés et une profondeur visuelle.
+Image:l4
+Price:23000 DA
+Brand:MINET
+Count In stock:C
+category:Chambre
+IsFeatured:False
+
+
+Name:Armoire 7 portes graphite et verre noir
+Description:Conçue pour répondre à vos besoins de rangement. Elle est équipée de deux espaces de penderies, de quatre tiroirs pratiques. Son design et ses finitions de haute qualité en font un choix idéal pour ceux qui recherchent une solution de rangement pratique et esthétique à leur maison.
+Image:l5
+Price:53000 DA
+Brand:CELIO
+Count In stock:12
+category:Chambre
+IsFeatured:False
+
+Name:Armoire avec miroir
+Description:une œuvre d'art dans votre chambre. Ses six portes, dont quatre ornées de miroirs, ajoutent une touche de glamour et agrandissent visuellement l'espace avec deux tiroirs bien pensés et deux vastes penderies. Dimenssion:L180xH208xP58 cm 
+Image:l6
+Price:30000 DA
+Brand:CELIO
+Count In stock:5
+category:Chambre
+IsFeatured:False
+
+Name:Armoire à porte coulissante
+Description:Dotée d'une porte coulissante avec un miroir, d'un double dressing et de cinq compartiments de rangement. Mesurant: L120xH215xP60 cm
+Image:l7
+Price:26000 DA
+Brand:CELIO
+Count In stock:6
+category:Chambre
+IsFeatured:False
+
+Name:Armoire dressing miroir
+Description:Elle se compose de 6 portes dont deux avec miroir et de deux grands tiroirs. Elle est équipée d'un dressing avec tringle de suspension et de 5 compartiments de rangement. Sa façade laquée brillante apportera une touche luxueuse dans la pièce de votre choix. Les matériaux utilisés sont de qualité pour une longévité optimale
+Image:l8
+Price: 39000 DA
+Brand:FREDERICIA
+Count In stock:5
+category:Chambre
+IsFeatured:False
+
+
+Name:Armoire à 2 portes
+Description:Armoire de rangement et penderie moderne pour jeune enfant,Équipée de deux portes, cette armoire pour ado de 10 à 20 ans comblera sans problème la solution de rangement la plus appropriée pour votre garçon.Mesurant:L90xH199xP58cm
+Image:l9
+Price:41000 DA
+Brand:FREDERICIA
+Count In stock:4
+category:Chambre
+IsFeatured:False
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

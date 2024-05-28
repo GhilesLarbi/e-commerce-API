@@ -24,6 +24,10 @@ const productSchema = mongoose.Schema({
         type: Number,
         default: '0'
     },
+	promotion : {
+        type: Number,
+        default: null
+	},
 
     category: {
         type: mongoose.Schema.Types.ObjectId,

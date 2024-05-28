@@ -44,18 +44,18 @@ router.get('/', asyncHandler(async (req, res)=> {
     const productList = await Product.find(filter).populate('category');
     // const productList = await Product.find(filter).select('name image');
     if (!productList) {
-        res.status(500), json({success:false})
+        return res.status(500), json({success:false})
     }
-    res.status(200).send(productList);
+    return res.status(200).send(productList);
 }))
 
 router.get('/:id', asyncHandler(async (req, res) => {
     const product = await Product.findById(req.params.id).populate('category');
 
     if (!product) {
-        res.status(500).json({ success: false, message: 'The product with the given ID not exists' })
+        return res.status(500).json({ success: false, message: 'The product with the given ID not exists' })
     }
-    res.status(200).send(product)
+    return res.status(200).send(product)
 }))
 
 router.post('/',isAdmin, upload.single('image'), asyncHandler(async (req, res) => {
@@ -81,6 +81,7 @@ router.post('/',isAdmin, upload.single('image'), asyncHandler(async (req, res) =
         image: `${basePath}${fileName}`,
         brand: req.body.brand,
         price: req.body.price,
+		promotion : req.body.promotion || null,
         category: req.body.category,
         countInStock: req.body.countInStock,
         isFeatured: req.body.isFeatured
@@ -106,6 +107,7 @@ router.put('/:id',isAdmin, asyncHandler(async (req, res) => {
         brand: req.body.brand,
         price: req.body.price,
         category: req.body.category,
+		promotion : req.body.promotion || null,
         countInStock: req.body.countInStock,
         isFeatured: req.body.isFeatured
     }, {
