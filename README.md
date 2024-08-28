@@ -1,3 +1,13 @@
+## Credit
+This project is a modified version of the [original project](https://github.com/dinushchathurya/nodejs-ecommerce-api) created by [Dinush Chathurya](https://github.com/dinushchathurya). The original project is licensed under the MIT License, which allows anyone to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software. This modified version adheres to the terms of the original license. For more details on the license, you can check the [License](https://github.com/dinushchathurya/nodejs-ecommerce-api?tab=readme-ov-file#license) section of the original project.
+
+
+# Note
+This project is not completely mine
+It is a modified version of an existing api :
+https://github.com/dinushchathurya/nodejs-ecommerce-api
+
+Thanks to : [Dinush Chathurya](https://dinushchathurya.github.io/)
 # Node.js E-Commerce API 
 
 This full E-Commerce API build using Express and Mongo. Here it contains all the required functionalities of a full-fledged E-commerce API like User registration, User Login, Category Add, Edit & Delete, Product Add, Edit, Delete, Add product feature image & Add product images, Order creation and etc...
@@ -211,5 +221,3 @@ This full E-Commerce API build using Express and Mongo. Here it contains all the
 ### * Delete Single Order
 
 `DELETE |  /api/v1/orders/{id}` 
-
-<p ><h2 align="center">AMIRA<i class="fa fa-heart" style="color:red;"></i> ❤️ <i class="fa fa-code" style="color:orange;"> </i></h2></p>
